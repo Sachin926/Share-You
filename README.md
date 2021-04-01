@@ -11,3 +11,6 @@ well in that case you'll have to enter the host ip manually
 
 # Prerequisite of using the software
 connect both the sender and receiver to a common wifi network
+
+# Youtube Link
+https://youtu.be/3QI4h46o0NE

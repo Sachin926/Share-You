@@ -1,5 +1,5 @@
 # Share-You
-file sharing device for PC
+file sharing software for PC
 # How to use?
 Extract the zip file in the main directory and run share.py
 
